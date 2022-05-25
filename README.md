@@ -10,10 +10,12 @@ Refactor code for a marketing firm to add greater accessibility their page
 
 ## Starter Code Notes
 - Website title is not descriptive
-- Hero loads brutally slow
+- Images load brutally slow
 - Search engine optimization Nav broken
 - Images lack alt descriptions
 
 ## Improvements Made
+- Added title to webpage
+- resized images to 4MP for quicker loading
 
 ## Final Thoughts
