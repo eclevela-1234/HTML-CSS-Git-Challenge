@@ -14,6 +14,7 @@ Refactor code for a marketing firm to add greater accessibility their page
 - Images load brutally slow
 - Search engine optimization Nav broken
 - Images lack alt descriptions
+- Lots of duplication in CSS
 
 ## Improvements Made
 - Added title to webpage
