@@ -24,8 +24,8 @@
 - Added comments to CSS/HTML 
 
 ## Final Thoughts
-While the website is very simple, this was a great opportunity to gain real experience refactoring code. Everything I have read has shown that coding is iterative and most developers will have to work with someone else's code regularly. \
+While the website is very simple, this was a great opportunity to gain real experience refactoring code. Everything I have read has shown that coding is iterative and most developers will have to work with someone else's code regularly.
 
-This type of foundational lesson is invaluable. For example, could totally see myself trying to build a website in this way just a week ago, before I started the async lessons. It is amazing what a determined mind can accomplish! \ 
+This type of foundational lesson is invaluable. For example, could totally see myself trying to build a website in this way just a week ago, before I started the async lessons. It is amazing what a determined mind can accomplish!
 
 We were told to follow the scout rule and leave the code cleaner than I found it. I certainly hope this has been accomplished and look forward to more challenges!
